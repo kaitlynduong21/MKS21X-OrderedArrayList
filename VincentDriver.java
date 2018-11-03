@@ -43,7 +43,7 @@ public class VincentDriver{
       System.out.println("Error: attempted to add null to list.");
     }
 
-    /*System.out.println("----------");
+    System.out.println("----------");
     System.out.println();
     System.out.println("OrderedArrayList testing!");
     System.out.println();
@@ -68,7 +68,7 @@ public class VincentDriver{
     System.out.println(ints);
     System.out.println("----------");
 
-    System.out.println("Setting ints 20-29 (in a weird way) in list nums:");
+    /*System.out.println("Setting ints 20-29 (in a weird way) in list nums:");
     for(int i = 0; i < 10; i++) {
       int j = i + 20;
       Integer k = new Integer(j);
